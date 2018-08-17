@@ -1,3 +1,4 @@
+.gitignore
 /smallfile.txt
 /bigfile.txt
 /file2.txt
